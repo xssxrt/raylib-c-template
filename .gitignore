@@ -1,8 +1,4 @@
-game
-game.data
-game.html
-game.js
-game.wasm
+game.*
 libraylib.a
 
 result/
